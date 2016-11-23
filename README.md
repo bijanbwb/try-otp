@@ -1,6 +1,15 @@
 # UrlShortener
 
-**TODO: Add description**
+Basic Implementation:
+
+- [Tests](https://github.com/bijanbwb/try-otp/blob/master/test/url_shortener_test.exs)
+- [Implementation](https://github.com/bijanbwb/try-otp/blob/master/lib/url_shortener.ex#L1)
+
+
+GenServer Implementation:
+
+- [Tests](https://github.com/bijanbwb/try-otp/blob/master/test/url_shortener_server_test.exs)
+- [Implementation](https://github.com/bijanbwb/try-otp/blob/master/lib/url_shortener.ex#L18)
 
 ## Installation
 

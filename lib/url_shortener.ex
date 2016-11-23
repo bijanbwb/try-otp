@@ -14,3 +14,7 @@ defmodule UrlShortener.Basic do
     end
   end
 end
+
+defmodule UrlShortener.Server do
+
+end
